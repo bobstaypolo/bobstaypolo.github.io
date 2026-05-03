@@ -3,6 +3,7 @@ layout: post
 title: "How does moving the mouse move the cursor"
 date: 2026-05-03
 ---
+
 [gif of a hand moving a mouse side by side with the cursor moving on a display on the right]
 Right, simple enough question.
 
