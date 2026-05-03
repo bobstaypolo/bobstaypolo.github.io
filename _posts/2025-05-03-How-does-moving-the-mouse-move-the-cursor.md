@@ -4,6 +4,11 @@ title: "How does moving the mouse move the cursor"
 date: 2026-05-03
 ---
 
+My ultimate aim is to make a series of explanations of how computers do various things
+and in doing so naturally motivate teaching the various parts and concepts needed to
+understand computers. Kind of like teaching many real sentences of a language and
+explaining grammar and vocab.
+
 [gif of a hand moving a mouse side by side with the cursor moving on a display on the right]
 Right, simple enough question.
 
@@ -12,8 +17,8 @@ I have arranged and photographed its innards on the right.
 [picture of the machine - picture of the circuit boards aranged]
 
 Ok, first a high level sequence of events, thinking in terms of abstract messages passing 
-from one part of machine to another, without yet worrying about how electricity is used 
-to send these signals
+from one part of the machine to another, without yet worrying about how electricity is
+used to send these signals
 
 [diagram of innards on the left, abstract view from the processor on the right]
 
@@ -37,6 +42,16 @@ this code is called the interrupt handler and begins by saving the data that was
 processor somewhere in ram so that it can get it back later when it goes back to what it
 was in the middle of.
 8. The interrupt routine does something, code in the kernel gets run, in the xhci driver,
-usb/usbhid/usbhost? driver, the 
+usb/usbhid/usbhost? driver, the
+9. Somehow the event file for the mouse gets updated and the kernel is storing which
+programs are reading the file and waiting for the next piece of data to come in.
+In this case the Xorg process is, it uses libinput which uses libevdev? which uses glibc
+to do the read syscall.
+10. Something something something, the xorg process communicates with the integrated amd
+gpu also on the main piece of silicon (putting info in ram that the gpu also has access
+to?) by using some userspace amd driver library to do ioctl syscalls to tell the kernel
+to use the amd driver to tell the amd gpu to update the cursor position so that when the
+image nexts gets written out by the (scan unit?) it is with the curor in the updated
+location
 
 
