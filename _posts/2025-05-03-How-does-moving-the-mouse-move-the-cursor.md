@@ -4,10 +4,9 @@ title: "How does moving the mouse move the cursor"
 date: 2026-05-03
 ---
 
-My ultimate aim is to make a series of explanations of how computers do various things
-and in doing so naturally motivate teaching the various parts and concepts needed to
-understand computers. Kind of like teaching many real sentences of a language and
-explaining grammar and vocab.
+My ultimate aim here is to make a series of explanations of how computers do various
+things and in doing so naturally motivate teaching the various parts and concepts needed to understand computers. Kind of like teaching many real sentences of a language and
+explaining grammar and vocab using these concrete sentences.
 
 [gif of a hand moving a mouse side by side with the cursor moving on a display on the right]
 Right, simple enough question.
