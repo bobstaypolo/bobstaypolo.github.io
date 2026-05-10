@@ -13,3 +13,6 @@ We'll all die someday, so why not explore and leave a little more for those who 
 - Crystals and symmetry
 - Geometric algebra, mechanical models of EM, graphic statics
 - The broad nature of compression
+- Leveraging humans capacity for spatial memory in computer use
+- High fidelity control of motors to create a workout and phone charging device
+- 
