@@ -18,7 +18,7 @@ reason about many things about banks. This may be fine as many people can go the
 The above description naturally raises some thoughts:
 1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given.
 2. A lendee will often want to use the money they have been lent by transfering money by bank transfer to someone with a
-bank account either at the same bank, or another - how does this happen.
+bank account either at the same bank, or another - how does this happen?
 3. How are banknotes brought into and out of circulation and who controls how many are in circulation?
 
 To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the 4 parties involved.
