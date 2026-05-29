@@ -9,17 +9,21 @@ My initial, schoolboy understanding of how banks worked was the following:
 * The bank lends this out to lendees, and charges them interest for the priveledge.
 * Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
 
-This naturally raises some thoughts in my mind:
-1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given
+This naturally raises some thoughts:
+1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given.
 2. A lendee will often want to use the money they have been lent by transfering money by bank transfer to someone with a
 bank account either at the same bank, or another - how does this happen.
-3. What controls the amount of banknotes in circulation
-4. How are banknotes brought into and out of circulation
+3. How are banknotes brought into and out of circulation and who controls how many are in circulation?
 
 To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the 4 parties involved.
-4 and not 3? Yes, you have the bank, the depositor, the lendee, and the issuer of the banknotes, in the UK typically the Bank
+4 parties and not 3? Yes, you have the bank, a depositor, a lendee, and the issuer of the banknotes, in the UK typically the Bank
 of England.
-As for what a balance sheet is, it is an attempt to capture the financial state of an entity at a moment in time.
+For those unaware of what a balance sheet is, it is a numerical summary of the financial position of an entity at a 
+specific moment in time. Having an engineering/scientific background, I like to view the balance sheet as a very lossy
+compressive model of an entity's state at a given time. Just as a statistic is a simplified, lossy representation of a  numerical dataset - and ultimately the population subject to a measurement process, so to is a balance sheet.
+We must keep in this in mind when dealing with balance sheets, they are a lossy summary of the entity, derived by attempting
+to value each asset and liability 
+
 It lossily distills the complexities of the various contracts that an entity holds into the 'value' of the positive
 value ones (the assets) and the 'value' of the negative ones (liablilties). 
 Sometimes you will see balance sheets represented as so
