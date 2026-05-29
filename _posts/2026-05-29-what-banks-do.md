@@ -6,7 +6,7 @@ date: 2026-05-29
 
 #### Some notes on my journey getting to grips with what banks do and how they do it.
 
-My initial, schoolboy understanding of how banks worked was the following:  
+My initial schoolboy understanding of how banks worked (which I suspect many others to hold) was the following:  
 * Depositors deposited money at the bank (for simplicity I imagined handing over some banknotes).
 * The bank lends this out to lendees, and charges them interest for the privilege.
 * Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
