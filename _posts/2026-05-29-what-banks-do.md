@@ -8,7 +8,7 @@ date: 2026-05-29
 
 My initial, schoolboy understanding of how banks worked was the following:  
 * Depositors deposited money at the bank (for simplicity I imagined handing over some banknotes).
-* The bank lends this out to lendees, and charges them interest for the priveledge.
+* The bank lends this out to lendees, and charges them interest for the privilege.
 * Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
 
 It turns out this description doesn't fully capture what goes on, I don't want to say that it is wrong, as in some sense
