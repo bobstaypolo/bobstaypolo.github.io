@@ -5,9 +5,9 @@ date: 2026-05-29
 ---
 
 My initial, schoolboy understanding of how banks worked was the following:  
-- Depositors deposited money at the bank (for simplicity I imagined handing over some banknotes).
-- The bank lends this out to lendees, and charges them interest for the priveledge.
-- Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
+* Depositors deposited money at the bank (for simplicity I imagined handing over some banknotes).
+* The bank lends this out to lendees, and charges them interest for the priveledge.
+* Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
 
 This naturally raises some thoughts in my mind:
 1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given
