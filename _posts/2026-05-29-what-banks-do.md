@@ -16,11 +16,12 @@ bank account either at the same bank, or another - how does this happen.
 3. What controls the amount of banknotes in circulation
 4. How are banknotes brought into and out of circulation
 
-To my head around what actually happens, I had to learn to think in terms of the balance sheets of the 4 parties involved.
+To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the 4 parties involved.
 4 and not 3? Yes, you have the bank, the depositor, the lendee, and the issuer of the banknotes, in the UK typically the Bank
 of England.
 As for what a balance sheet is, it is an attempt to capture the financial state of an entity at a moment in time.
-It lossily distills the complexities of the contracts that an entity has into a single number. 
+It lossily distills the complexities of the various contracts that an entity holds into the 'value' of the positive
+value ones (the assets) and the 'value' of the negative ones (liablilties). 
 Sometimes you will see balance sheets represented as so
 https://cdn.corporatefinanceinstitute.com/assets/A-Balance-Sheet.png
 I like to imagine that each party has a wide filing cabinet, parted in the middle, with contracts relating to assets on the
