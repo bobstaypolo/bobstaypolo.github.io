@@ -13,9 +13,9 @@ My initial, schoolboy understanding of how banks worked was the following:
 
 It turns out this description doesn't fully capture what goes on, I don't want to say that it is wrong, as in some sense
 it is a fairly truthful representation, it's just simplified to the point that you cannot use this mental model to usefully
-reason many things about banks. This may be fine as many people can go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to - deposit money for interest, move money, and obtain loans.
+reason many things about banks. This may be fine as many people can go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for interest, move money, and obtain loans etc.
 
-This naturally raises some thoughts:
+The above description naturally raises some thoughts:
 1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given.
 2. A lendee will often want to use the money they have been lent by transfering money by bank transfer to someone with a
 bank account either at the same bank, or another - how does this happen.
@@ -25,10 +25,18 @@ To get my head around what actually happens, I had to learn to think in terms of
 4 parties and not 3? Yes, you have the bank, a depositor, a lendee, and the issuer of the banknotes, in the UK typically the Bank
 of England.
 For those unaware of what a balance sheet is, it is a numerical summary of the financial position of an entity at a 
-specific moment in time. Having an engineering/scientific background, I like to view the balance sheet as a very lossy
+specific moment in time. 
+I like to imagine that each party has a double wide filing cabinet, parted in the middle, with paper representations of 
+assets on the left, and paper representations of liabilities on the right. Concretely, for the bank, on the left it may
+put the deposited banknotes, and a contract signed by the lendee stating how much they owe the bank. (If the bank owns
+land, the deed would also be filed here). The right hand liabilities side would contain
+
+Having an engineering/scientific background, I like to view the balance sheet as a very lossy,
 compressive model of an entity's state at a given time. Just as a statistic is a simplified, lossy representation of a  numerical dataset - and ultimately the population subject to a measurement process, so to is a balance sheet.
 We must keep in this in mind when dealing with balance sheets, they are a lossy summary of the entity, derived by attempting
-to value each asset and liability 
+to value each asset and liability of the entity.
+
+
 
 It lossily distills the complexities of the various contracts that an entity holds into the 'value' of the positive
 value ones (the assets) and the 'value' of the negative ones (liablilties). 
