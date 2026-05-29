@@ -13,7 +13,7 @@ My initial, schoolboy understanding of how banks worked was the following:
 
 It turns out this description doesn't fully capture what goes on, I don't want to say that it is wrong, as in some sense
 it is a fairly truthful representation, it's just simplified to the point that you cannot use this mental model to usefully
-reason many things about banks. This may be fine as many people can go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for interest, move money, and obtain loans etc.
+reason about many things about banks. This may be fine as many people can go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for interest, move money, and obtain loans etc.
 
 The above description naturally raises some thoughts:
 1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given.
