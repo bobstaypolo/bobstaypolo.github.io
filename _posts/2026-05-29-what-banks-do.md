@@ -12,9 +12,8 @@ My initial schoolboy understanding of how banks worked (which I suspect many oth
 * Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
 
 It turns out this description doesn't fully capture what goes on, I'm reluctant to say that it's wrong, as in some sense
-it's a fairly truthful representation, it's just simplified to the point that you cannot usefully reason about many aspects 
-of banks with this level of understanding. This may be fine as people often go their whole lives without contemplating what 
-is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for 
+it's a fairly truthful representation, it's just simplified beyond the point that you can use it to usefully reason about many aspects of banks. This is often fine, I suspect most people go their whole lives without contemplating what 
+is to follow, only caring about the bank's interface which allows them to do certain activities - deposit money for 
 interest, move money, obtain loans etc.
 
 The above description naturally raises some thoughts:
