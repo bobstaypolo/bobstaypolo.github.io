@@ -30,8 +30,7 @@ For those unaware, balance sheet is the term for a type of numerical summary of 
 a specific moment in time. To understand them I first like to imagine that each party has a double wide filing cabinet,
 parted in the middle. Paper representations of assets are filed on the left, and paper representations of liabilities on the 
 right.
-Taking the above bank as a concrete example, on the left it would put the deposited banknotes, and a contract signed by the lendee stating how.
-much they owe the bank. (If the bank were to own any land, the deeds would also be filed here). The liabilities side on the right would 
+Taking the above bank as a concrete example, on the left it would put the deposited banknotes, and a contract signed by the lendee stating how much they owe the bank. (If the bank were to own any land, the deeds would also be filed here). The liabilities side on the right would 
 contain the paperwork recording the bank's obligation to the depositor, that they may claim their deposit plus any interest 
 that has accrued. Also the lendee that has been lent money but not spent it, would have the obligation by the bank allowing 
 to them filed here.
