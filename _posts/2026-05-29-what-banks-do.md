@@ -16,20 +16,30 @@ it is a fairly truthful representation, it's just simplified to the point that y
 reason about many things about banks. This may be fine as many people can go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for interest, move money, obtain loans etc.
 
 The above description naturally raises some thoughts:
-1. Something feels impossible about the lendees having to pay back more interest to the bank than money they were given.
+1. Something somehow just feels a little impossible about the lendees having to pay back more interest to the bank than money they were given.
 2. A lendee will often want to use the money they have been lent by transfering money by bank transfer to someone with a
 bank account either at the same bank, or another - how does this happen?
 3. How are banknotes brought into and out of circulation and who controls how many are in circulation?
 
-To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the 4 parties involved.
-4 parties and not 3? Yes, you have the bank, a depositor, a lendee, and the issuer of the banknotes, in the UK typically the Bank
-of England.
-For those unaware of what a balance sheet is, it is a numerical summary of the financial position of an entity at a 
-specific moment in time. 
-I like to imagine that each party has a double wide filing cabinet, parted in the middle, with paper representations of 
-assets on the left, and paper representations of liabilities on the right. Concretely, for the bank, on the left it may
-put the deposited banknotes, and a contract signed by the lendee stating how much they owe the bank. (If the bank owns
-land, the deed would also be filed here). The right hand liabilities side would contain
+To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the parties involved.
+For those unaware of balance sheets, it is a term for a type of numerical summary of the financial position of an entity at 
+a specific moment in time. To understand them I first like to imagine that each party has a double wide filing cabinet,
+parted in the middle, with paper representations of  assets on the left, and paper representations of liabilities on the 
+right.
+Concretely, for the bank, on the left it would put the deposited banknotes, and a contract signed by the lendee stating how 
+much they owe the bank. (If the bank owns land, the deeds would also be filed here). The liabilities side on the right would 
+contain the paperwork recording the bank's obligation to the depositor, that they may claim their deposit plus any interest 
+that has accrued. Also the lendee that has been lent money but not spent it, would have the obligation by the bank allowing 
+to them filed here.
+The balance sheet is then formed by going through the files in the cabinet one by one and then for the purpose of creating a
+somewhat useful summary, attempting to calculate the value of filing entry. For the balance sheets seen in financial
+statements published by companies, the individual values are aggregated into groups, some of which are in the asset category,
+and others in the liabilities category. (for our purposes we will not concern ourselves with equity entries, as these are a 
+somewhat more abstract invention).
+
+arbitrariness as people can come up with different ways of valuing different classes of things).
+
+
 
 Having an engineering/scientific background, I like to view the balance sheet as a very lossy,
 compressive model of an entity's state at a given time. Just as a statistic is a simplified, lossy representation of a  numerical dataset - and ultimately the population subject to a measurement process, so to is a balance sheet.
