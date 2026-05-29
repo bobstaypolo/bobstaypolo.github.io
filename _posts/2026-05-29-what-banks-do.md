@@ -12,13 +12,16 @@ My initial, schoolboy understanding of how banks worked was the following:
 * Some of the interest paid by the lendees is passed on from the bank to the depositor as an incentive to bank with them.
 
 It turns out this description doesn't fully capture what goes on, I'm reluctant to say that it's wrong, as in some sense
-it's a fairly truthful representation, it's just simplified to the point that you cannot usefully reason about many aspects of banks with this level of understanding. This may be fine as people often go their whole lives without contemplating what is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for interest, move money, obtain loans etc.
+it's a fairly truthful representation, it's just simplified to the point that you cannot usefully reason about many aspects 
+of banks with this level of understanding. This may be fine as people often go their whole lives without contemplating what 
+is to follow and only care about the bank's interface which allows them to do certain activities - deposit money for 
+interest, move money, obtain loans etc.
 
 The above description naturally raises some thoughts:
 1. Something somehow just feels a little impossible in the long run about the lendees having to pay back more interest to the bank than money they were given.
-2. A lendee will want to use the money they have been lent by performing a bank transfer to someone with a
+3. A lendee will want to use the money they have been lent by performing a bank transfer to someone with a
 bank account either at the same bank, or another - how does this happen?
-3. How are banknotes brought into and out of circulation and who controls how many are in circulation?
+4. How are banknotes brought into and out of circulation and who controls how many are in circulation?
 
 To get my head around what actually happens, I had to learn to think in terms of the balance sheets of the parties involved.
 For those unaware of balance sheets, it is a term for a type of numerical summary of the financial position of an entity at 
