@@ -25,7 +25,7 @@ bank account either at the same bank, or another - how does this happen?
 #### Balance sheet thinking
 
 To get a clearer picture of what actually happens, I had to learn to think in terms of the balance sheets of the parties involved.
-For those unaware, balance sheet is the term for a type of numerical summary of the financial position of an entity at 
+For those unaware, a balance sheet is a type of numerical summary of the financial position of an entity at 
 a specific moment in time. To understand them I first like to imagine that each party has a double wide filing cabinet,
 parted in the middle. Paper representations of assets are filed on the left, and paper representations of liabilities on the 
 right.
